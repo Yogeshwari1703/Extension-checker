@@ -148,13 +148,3 @@ This project is open source and available under the MIT License.
 
 **Note**: This is a demonstration project for educational purposes. It does not actually manage real browser extensions but simulates how such functionality would work.
 ```
-
-This README.md file provides comprehensive documentation for your React Extension Manager project. It includes:
-
-1. **Project description** and features
-2. **Complete file structure** with explanations of each component
-3. **Installation instructions** for setting up the project
-4. **Usage guidelines** for interacting with the application
-5. **Technical details** about the technologies used
-6. **Limitations and future enhancements** section
-7. **Contributing guidelines** and license information
