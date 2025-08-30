@@ -147,4 +147,4 @@ This project is open source and available under the MIT License.
 ---
 
 **Note**: This is a demonstration project for educational purposes. It does not actually manage real browser extensions but simulates how such functionality would work.
-```
+
